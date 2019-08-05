@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPFirebaseAuthentication</string>
+    <string name="facebook_app_id">401977347109721</string>
+    <string name="fb_login_protocol_scheme">fb401977347109721</string>
+</resources>
